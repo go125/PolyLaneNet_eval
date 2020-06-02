@@ -4,14 +4,8 @@
 
 [original](https://github.com/lucastabelini/PolyLaneNet)
 
+This is a copied code for evaluation.
 
-
-## Description
-
-
-
-Code for the under-review [PolyLaneNet paper](https://arxiv.org/abs/2004.10924 "PolyLaneNet paper") by [Lucas Tabelini](https://github.com/lucastabelini), [Thiago M. Paixão](https://sites.google.com/view/thiagopx), [Rodrigo F. Berriel](http://rodrigoberriel.com), [Claudine Badue](https://www.inf.ufes.br/~claudine/),
-[Alberto F. De Souza](https://inf.ufes.br/~alberto), and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home). This page is a work-in-progress.
 
 ## Table of Contents
 1. [Installation](#installation)

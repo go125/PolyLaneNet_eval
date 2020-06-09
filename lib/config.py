@@ -1,4 +1,4 @@
-import yaml
+import pyyaml as yaml
 import torch
 
 import lib.models as models

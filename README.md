@@ -127,7 +127,7 @@ This script's options are:
 #### Testing
 After training, run the `test.py` script to get the metrics:
 ```bash
-python test.py --exp_name tusimple --cfg config.yaml --epoch 2695
+python test.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml --epoch 2695
 ```
 This script's options are:
 ```

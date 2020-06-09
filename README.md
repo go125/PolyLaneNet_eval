@@ -109,6 +109,12 @@ With the config file created, run the training script:
 ```bash
 python train.py --exp_name tusimple --cfg config.yaml
 ```
+
+config.yamlのパスを通す
+```bash
+python train.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml
+```
+
 This script's options are:
 ```
   --exp_name            Experiment name.

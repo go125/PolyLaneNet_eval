@@ -163,7 +163,7 @@ If you just want to reproduce the exact reported metrics by testing the model, y
 Then, run:
 
 ```bash
-python test.py --exp_name tusimple --cfg --cfg ./cfgs/tusimple.yaml --epoch 2695
+python test.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml --epoch 2695
 ```
 Replacing `$exp_name` with the name of the directory you downloaded (the name of the experiment) and `$exps_dir` with the `exps_dir` value you defined inside the `config.yaml` file. The script will look for a directory named `$exps_dir/$exp_name/models` to load the model.
 

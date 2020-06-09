@@ -55,7 +55,7 @@ datasets:
          parameters:
            width: 1152
            height: 648
-      root: "../data_lane-regression/datasets/tusimple"
+      root: "/home/ubuntu/data/tusimple"
 
   test: &test
     type: LaneDataset
@@ -64,7 +64,7 @@ datasets:
       split: val
       max_lanes: 5
       img_size: [360, 640]
-      root: "../data_lane-regression/datasets/tusimple"
+      root: "/home/ubuntu/data/tusimple"
       normalize: true
       augmentations: []
 

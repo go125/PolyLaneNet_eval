@@ -13,7 +13,7 @@ class Config(object):
     def load(self, path):
         with open(path, 'r') as file:
             self.config_str = file.read()
-        self.config = yaml.load(self.config_str, Loader=yaml.FullLoader)
+        self.config = yaml.load(self.config_str)
 
     def __repr__(self):
         return self.config_str

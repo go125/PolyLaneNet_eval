@@ -115,6 +115,10 @@ config.yamlのパスを通す
 python train.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml
 ```
 
+```bash
+nohup python train.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml &
+```
+
 This script's options are:
 ```
   --exp_name            Experiment name.

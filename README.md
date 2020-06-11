@@ -115,6 +115,7 @@ config.yamlのパスを通す
 python train.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml
 ```
 
+GPUが読み込めないため本格的な実験は未実施
 ```bash
 nohup python train.py --exp_name tusimple --cfg ./cfgs/tusimple.yaml &
 ```

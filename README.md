@@ -6,6 +6,7 @@
 
 This is a copied code for evaluation.
 
+# モデルの内部に置いたままのコミット禁止！！
 
 ## Table of Contents
 1. [Installation](#installation)

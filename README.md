@@ -26,7 +26,7 @@ pip install -r requirements.txt
 That's all. A Docker container and a Google Colab notebook will be available soon.
 
 
-## TuSimple dataset
+### TuSimple dataset
 
 ```
 mkdir tusimple

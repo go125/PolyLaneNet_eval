@@ -18,7 +18,7 @@ This is a copied code for evaluation.
 ### Installation
 The code requires Python 3, and has been tested on Python 3.5.2, but should work on newer versions of Python too.
 
-Pytorchのバージョンを1.4.0にしないと初期重みが読めない。だが、1.4.0にするとCUDAのバージョンが合わない。
+Pytorchのバージョンを1.4.0にしないと初期重みが読めない。AWSのPytorchは1.0.1である。Pytorchを1.4.0にするとCUDAのバージョンが合わず、GPUを使えない。
 
 
 

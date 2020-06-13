@@ -25,6 +25,16 @@ pip install -r requirements.txt
 
 That's all. A Docker container and a Google Colab notebook will be available soon.
 
+
+# TuSimple dataset
+
+```
+mkdir tusimple
+cd tusimple
+wget https://s3.us-east-2.amazonaws.com/benchmark-frontend/datasets/1/train_set.zip
+wget https://s3.us-east-2.amazonaws.com/benchmark-frontend/datasets/1/test_set.zip
+```
+
 <a name="usage"/>
 
 ### Usage

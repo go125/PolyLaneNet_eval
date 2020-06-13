@@ -9,7 +9,7 @@ model:
   name: PolyRegression
   parameters:
     num_outputs: 35 # (5 lanes) * (1 conf + 2 (upper & lower) + 4 poly coeffs)
-    pretrained: true
+    pretrained: false
     backbone: 'efficientnet-b0'
     pred_category: false
     curriculum_steps: [0, 0, 0, 0]

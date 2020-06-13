@@ -18,13 +18,7 @@ This is a copied code for evaluation.
 ### Installation
 The code requires Python 3, and has been tested on Python 3.5.2, but should work on newer versions of Python too.
 
-Install dependencies:
-```
-pip install -r requirements.txt
-```
-実行禁止！
 
-That's all. A Docker container and a Google Colab notebook will be available soon.
 
 
 ### TuSimple dataset
